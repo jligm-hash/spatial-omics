@@ -19,6 +19,9 @@ scDesign3:
 SRTsim:
 [SRTsim: spatial pattern preserving simulations for spatially resolved transcriptomics](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02879-z)
 
+Spider:
+[Spider: a flexible and unified framework for simulating spatial transcriptomics data](https://www.biorxiv.org/content/10.1101/2023.05.21.541605v1.full.pdf)
+
 
 - Spatial resolved
 
