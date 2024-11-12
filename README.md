@@ -62,6 +62,8 @@ Bayespace:
 
 [STASCAN deciphers fine-resolution cell distribution maps in spatial transcriptomics by deep learning](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03421-5)
 
+[SpottedPy quantifies relationships between spatial transcriptomic hotspots and uncovers environmental cues of epithelial-mesenchymal plasticity in breast cancer](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03428-y)
+
 ## scRNA
 
 [Comparison and evaluation of statistical error models for scRNA-seq](https://link.springer.com/article/10.1186/s13059-021-02584-9)
