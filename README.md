@@ -60,6 +60,8 @@ Bayespace:
 [Spatial transcriptomics in glioblastoma: is knowing the right zip code the key to the next therapeutic breakthrough?](https://pmc.ncbi.nlm.nih.gov/articles/PMC10618006/)
 
 
+[STASCAN deciphers fine-resolution cell distribution maps in spatial transcriptomics by deep learning](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03421-5)
+
 ## scRNA
 
 [Comparison and evaluation of statistical error models for scRNA-seq](https://link.springer.com/article/10.1186/s13059-021-02584-9)
