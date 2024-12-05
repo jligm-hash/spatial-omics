@@ -23,6 +23,11 @@ Spider:
 [Spider: a flexible and unified framework for simulating spatial transcriptomics data](https://www.biorxiv.org/content/10.1101/2023.05.21.541605v1.full.pdf)
 
 
+SPACEL: 
+[SPACEL: deep learning-based characterization of spatial transcriptome architectures](https://www.nature.com/articles/s41467-023-43220-3)
+
+
+
 - Spatial resolved
 
 stLearn:
@@ -72,5 +77,5 @@ Bayespace:
 [Comparison and evaluation of statistical error models for scRNA-seq](https://link.springer.com/article/10.1186/s13059-021-02584-9)
 
 
-
+[Directing cellular transitions on gene graph-enhanced cell state manifold](https://www.biorxiv.org/content/10.1101/2024.10.27.620174v1)
 
