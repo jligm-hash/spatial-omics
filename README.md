@@ -39,6 +39,9 @@ SPATA2:
 Bayespace:
 [Spatial transcriptomics at subspot resolution with BayesSpace](https://www.nature.com/articles/s41587-021-00935-2?fromPaywallRec=false)
 
+Squidpy:
+[Squidpy: a scalable framework for spatial omics analysis](https://www.nature.com/articles/s41592-021-01358-2)
+
 ## SRT related studies
 
 [Computational Approaches and Challenges in Spatial Transcriptomics](https://academic.oup.com/gpb/article/21/1/24/7274161)
