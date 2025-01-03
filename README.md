@@ -46,6 +46,9 @@ STADIA:
 [Statistical batch-aware embedded integration, dimension reduction, and alignment for spatial transcriptomics](https://academic.oup.com/bioinformatics/article/40/10/btae611/7821185)
 
 
+imcRtools:
+[Tools for IMC data analysis](https://bodenmillergroup.github.io/imcRtools/articles/imcRtools.html)
+
 ## SRT related studies
 
 [Computational Approaches and Challenges in Spatial Transcriptomics](https://academic.oup.com/gpb/article/21/1/24/7274161)
