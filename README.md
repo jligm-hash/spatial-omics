@@ -53,6 +53,13 @@ imcRtools:
 IMC analysis:
 [Analysis workflow for IMC data](https://bodenmillergroup.github.io/IMCDataAnalysis/)
 
+
+spicyR:
+[Spatial Linear and Mixed-Effects Modelling with spicyR](https://www.bioconductor.org/packages/release/bioc/vignettes/spicyR/inst/doc/spicyR.html)
+
+lisaClust:
+[Introduction to Clustering of Local Indicators of Spatial Assocation (LISA) curves](https://www.bioconductor.org/packages/release/bioc/vignettes/lisaClust/inst/doc/lisaClust.html)
+
 ## SRT related studies
 
 [Computational Approaches and Challenges in Spatial Transcriptomics](https://academic.oup.com/gpb/article/21/1/24/7274161)
