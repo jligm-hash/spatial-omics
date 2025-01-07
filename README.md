@@ -110,3 +110,14 @@ CRAWDAD:
 
 [Directing cellular transitions on gene graph-enhanced cell state manifold](https://www.biorxiv.org/content/10.1101/2024.10.27.620174v1)
 
+
+## Other collections/Refs
+
+[Spatial-omics are all you need](https://github.com/jligm-hash/spatial-omics)
+
+[awesome spatial omics](https://github.com/crazyhottommy/awesome_spatial_omics)
+
+
+[scRNA-tools](https://www.scrna-tools.org/)
+
+
