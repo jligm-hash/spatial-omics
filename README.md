@@ -60,6 +60,16 @@ spicyR:
 lisaClust:
 [Introduction to Clustering of Local Indicators of Spatial Assocation (LISA) curves](https://www.bioconductor.org/packages/release/bioc/vignettes/lisaClust/inst/doc/lisaClust.html)
 
+
+
+SpaGCN:
+[SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network](https://www.nature.com/articles/s41592-021-01255-8)
+
+
+CRAWDAD:
+[Characterizing cell-type spatial relationships across length scales in spatially resolved omics data](https://www.nature.com/articles/s41467-024-55700-1)
+
+
 ## SRT related studies
 
 [Computational Approaches and Challenges in Spatial Transcriptomics](https://academic.oup.com/gpb/article/21/1/24/7274161)
