@@ -70,6 +70,18 @@ CRAWDAD:
 [Characterizing cell-type spatial relationships across length scales in spatially resolved omics data](https://www.nature.com/articles/s41467-024-55700-1)
 
 
+STASCAN:
+[STASCAN deciphers fine-resolution cell distribution maps in spatial transcriptomics by deep learning](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03421-5)
+
+GraphST:
+[Spatially informed clustering, integration, and deconvolution of spatial transcriptomics with GraphST](https://www.nature.com/articles/s41467-023-36796-3)
+
+stSME:
+[Robust mapping of spatiotemporal trajectories and cell–cell interactions in healthy and diseased tissues](https://www.nature.com/articles/s41467-023-43120-6)
+
+MuSpAn:
+[MuSpAn: A Toolbox for Multiscale Spatial Analysis](https://www.biorxiv.org/content/10.1101/2024.12.06.627195v2)
+
 ## SRT related studies
 
 [Computational Approaches and Challenges in Spatial Transcriptomics](https://academic.oup.com/gpb/article/21/1/24/7274161)
@@ -100,6 +112,7 @@ CRAWDAD:
 
 
 [STASCAN deciphers fine-resolution cell distribution maps in spatial transcriptomics by deep learning](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03421-5)
+
 
 [SpottedPy quantifies relationships between spatial transcriptomic hotspots and uncovers environmental cues of epithelial-mesenchymal plasticity in breast cancer](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03428-y)
 
