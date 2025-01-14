@@ -82,6 +82,10 @@ stSME:
 MuSpAn:
 [MuSpAn: A Toolbox for Multiscale Spatial Analysis](https://www.biorxiv.org/content/10.1101/2024.12.06.627195v2)
 
+GSDensity:
+[Pathway centric analysis for single-cell RNA-seq and spatial transcriptomics data with GSDensity](https://www.nature.com/articles/s41467-023-44206-x)
+
+
 ## SRT related studies
 
 [Computational Approaches and Challenges in Spatial Transcriptomics](https://academic.oup.com/gpb/article/21/1/24/7274161)
