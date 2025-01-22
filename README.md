@@ -26,6 +26,14 @@ Spider:
 SPACEL: 
 [SPACEL: deep learning-based characterization of spatial transcriptome architectures](https://www.nature.com/articles/s41467-023-43220-3)
 
+Spacia:
+[Mapping cellular interactions from spatially resolved transcriptomics data](https://www.nature.com/articles/s41592-024-02408-1?fromPaywallRec=false)
+
+COMMOT:
+[Screening cell–cell communication in spatial transcriptomics via collective optimal transport](https://www.nature.com/articles/s41592-022-01728-4)
+
+CellCharter:
+[CellCharter reveals spatial cell niches associated with tissue remodeling and cell plasticity](https://www.nature.com/articles/s41588-023-01588-4)
 
 
 - Spatial resolved
