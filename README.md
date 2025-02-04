@@ -100,8 +100,13 @@ MuSpAn:
 GSDensity:
 [Pathway centric analysis for single-cell RNA-seq and spatial transcriptomics data with GSDensity](https://www.nature.com/articles/s41467-023-44206-x)
 
-CellChat
-[Inference and analysis of cell-cell communication using CellChat](https://www.nature.com/articles/s41467-021-21246-9)
+CellChat:
+<!-- [Inference and analysis of cell-cell communication using CellChat](https://www.nature.com/articles/s41467-021-21246-9) -->
+
+[CellChat for systematic analysis of cell–cell communication from single-cell transcriptomics](https://www.nature.com/articles/s41596-024-01045-4)
+
+NePSTA:
+[Spatially resolved transcriptomics and graph-based deep learning improve accuracy of routine CNS tumor diagnostics](https://www.nature.com/articles/s43018-024-00904-z)
 
 ## SRT related studies
 
