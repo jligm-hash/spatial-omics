@@ -1,9 +1,26 @@
-# spatial-omics
-Spatial-omics are all you need
+# Spatial-omics 🔥🔥🔥
+Spatial-omics are all you need 
+
+Awesome spatial omics will rock you! 
+
+<!-- https://tumorgenetics.blog/2022/01/10/the-development-of-spatial-transcriptomics/ -->
+<p align="center">
+  <!-- <img src="https://tumorgenetics.blog/2022/01/10/the-development-of-spatial-transcriptomics/" alt="Spatial-omics fruit tart" width="400" > -->
+    <img src="src/fruitTart.png"
+    title="Spatial-omics fruit tart"
+    alt="copyright by https://tumorgenetics.blog/2022/01/10/the-development-of-spatial-transcriptomics/"
+    width="400" >
+</p>
+
+
 
 ## Voting for sptial method!
 
 [Click here to vote!](https://strawpoll.com/6QnMQV81Vne)
+
+
+
+
 
 
 
