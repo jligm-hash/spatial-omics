@@ -160,3 +160,11 @@ NePSTA:
 [scRNA-tools](https://www.scrna-tools.org/)
 
 
+
+## Contributing
+
+This is an active repository and your contributions are always welcome!
+
+I will keep some pull requests open if I'm not sure if they are awesome for spatial-omics, you could vote for them by adding 👍 to them.
+
+If you have any question about this opinionated list, do not hesitate to contact me jligm-hash@github.
