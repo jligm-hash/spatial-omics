@@ -125,6 +125,9 @@ CellChat:
 NePSTA:
 [Spatially resolved transcriptomics and graph-based deep learning improve accuracy of routine CNS tumor diagnostics](https://www.nature.com/articles/s43018-024-00904-z)
 
+scGPT (bioRxiv):
+[scGPT-spatial: Continual Pretraining of Single-Cell Foundation Model for Spatial Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.02.05.636714v1)
+
 ## SRT related studies
 
 [Computational Approaches and Challenges in Spatial Transcriptomics](https://academic.oup.com/gpb/article/21/1/24/7274161)
