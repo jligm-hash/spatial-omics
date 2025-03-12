@@ -138,6 +138,8 @@ SpaTrack:
 [Inferring cell trajectories of spatial transcriptomics via optimal transport analysis](https://www.cell.com/cell-systems/abstract/S2405-4712(25)00027-4)
 
 
+Spotiphy:
+[Spotiphy enables single-cell spatial whole transcriptomics across an entire section](https://www.nature.com/articles/s41592-025-02622-5)
 
 
 
