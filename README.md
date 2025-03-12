@@ -16,6 +16,16 @@ Awesome spatial omics will rock you!
 
 ## Voting for sptial method!
 
+<p align="center">
+  <a href="https://strawpoll.com/6QnMQV81Vne">
+    <img src="./src/vote.png"
+         title="Participate in our vote"
+         alt="Participate in our vote"
+         width="400">
+  </a>
+</p>
+
+
 [Click here to vote!](https://strawpoll.com/6QnMQV81Vne)
 
 
@@ -140,8 +150,6 @@ SpaTrack:
 
 Spotiphy:
 [Spotiphy enables single-cell spatial whole transcriptomics across an entire section](https://www.nature.com/articles/s41592-025-02622-5)
-
-
 
 ## SRT related studies
 
