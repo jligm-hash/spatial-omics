@@ -107,6 +107,8 @@ lisaClust:
 SpaGCN:
 [SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network](https://www.nature.com/articles/s41592-021-01255-8)
 
+SpaGRN:
+[SpaGRN: Investigating spatially informed regulatory paths for spatially resolved transcriptomics data](https://www.cell.com/cell-systems/fulltext/S2405-4712(25)00076-6)
 
 CRAWDAD:
 [Characterizing cell-type spatial relationships across length scales in spatially resolved omics data](https://www.nature.com/articles/s41467-024-55700-1)
@@ -206,8 +208,8 @@ Spotiphy:
 
 ## Contributing
 
-This is an active repository and your contributions are always welcome!
+This is an active repository and your contributions are always welcome! Please contribute your collections by PR.
 
-I will keep some pull requests open if I'm not sure if they are awesome for spatial-omics, you could vote for them by adding 👍 to them.
+I will keep **pull requests** open if I'm not sure if they are awesome for spatial-omics, you could also vote for them by adding 👍 to them.
 
 If you have any question about this opinionated list, do not hesitate to contact me jligm-hash@github.
